@@ -1,3 +1,3 @@
-# adPWebsite
+# Website
 
-# Link : https://adpratap.github.io/adPWebsite/
+# Link : https://adpratap.github.io
